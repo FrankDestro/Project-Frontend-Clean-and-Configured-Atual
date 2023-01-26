@@ -1,5 +1,18 @@
 # Pré-requisitos para inicio de projeto Front-end React
 
+Instalar as dependencias abaixo. 
+
+## Instalação da biblioteca React e os types necessário para rodar aplicação. ## 
+
+```js
+yarn add react@17.0.2 react-dom@17.0.2 @types/react@17.0.0 @types/react-dom@17.0.0
+```
+
+## Biblioteca para criação de Rotas ## 
+
+```js
+yarn add react-router-dom@^5.2.0 @types/react-router-dom@^5.1.7
+```
 
 **Extensões para VSCODE:**
 

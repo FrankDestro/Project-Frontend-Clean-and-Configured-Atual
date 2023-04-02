@@ -14,6 +14,25 @@ yarn add react@17.0.2 react-dom@17.0.2 @types/react@17.0.0 @types/react-dom@17.0
 yarn add react-router-dom@^5.2.0 @types/react-router-dom@^5.1.7
 ```
 
+## Instalação Bootstrap ## 
+```js
+yarn add bootstrap@5.0.2
+```
+
+## Para Node 14 use: ##
+```js
+yarn add node-sass@4.14.1
+```
+
+## Para Node 16 use: ##
+```js
+yarn add node-sass@7.0.1
+```
+
+
+
+
+
 **Extensões para VSCODE:**
 
 ![extensions](https://github.com/FrankDestro/Imagens-para-README/blob/main/extensions1.png)
